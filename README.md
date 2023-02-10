@@ -7,8 +7,8 @@ I'm a web developer, main skills:
 
 I am also interested in competitive programming, and i have published packages on npm.
 <ul>
- <li>fn-cases</li>
- <li>what-str</li>
+ <li><a href="https://www.npmjs.com/package/fn-cases">fn-cases</a></li>
+ <li><a href="https://www.npmjs.com/package/what-str">what-str</a></li>
 </ul>
 
 <p style="color: silver;"><em>If you want to program together, talk to me</em></p>
