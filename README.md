@@ -13,5 +13,5 @@ I am also interested in competitive programming, and i have published packages o
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=NicRiv&show_icons=true&locale=en&theme=solarized-light" alt="NicRiv" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicRiv&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="NicRiv" /></p>
+<p><img align="left" src="https://nic-riv.vercel.app/api?username=NicRiv&show_icons=true&locale=en&theme=solarized-light" alt="NicRiv" /></p>
+<p><img align="center" src="https://nic-riv.vercel.app/api/top-langs?username=NicRiv&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="NicRiv" /></p>
