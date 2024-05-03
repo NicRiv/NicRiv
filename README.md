@@ -11,6 +11,11 @@ I am also interested in competitive programming, and i have published packages o
  <li><a href="https://www.npmjs.com/package/what-str">what-str</a></li>
 </ul>
 
+<b>Pypi:</b>
+<ul>
+ <li><a href="https://pypi.org/project/seevars/">seevars</a></li>
+ <li><a href="https://pypi.org/project/cmon/">cmon</a></li>
+</ul>
 <!--
 ## Stats
 
