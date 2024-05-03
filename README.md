@@ -3,7 +3,7 @@
 I'm a web developer, main skills:
 
 
-<span style="color: lightsalmon">Laravel</span> - <span style="color: lightskyblue;">React</span> - <span style="color: limegreen;">Node</span> - <span style="color: cornflowerblue;">MySQL</span>
+<span style="color: lightsalmon">Laravel</span> - <span style="color: lightskyblue;">React</span> - <span style="color: limegreen;">Node</span> - <span style="color: cornflowerblue;">MySQL</span> - <span style="color: #111827;">Next.js</span>
 
 I am also interested in competitive programming, and i have published packages on npm.
 <ul>
